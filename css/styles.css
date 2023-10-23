@@ -173,7 +173,7 @@ body{
       }
 
       /* SECTION TEAM */
-      .section.team{
+      .section-ourteam{
         background: var(--cloud, #F4F4FD);
         padding: 120px 0;
       }
